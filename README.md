@@ -4,11 +4,11 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shohag80" />
 
 
-- 🔭 I’m currently working on **online_shoping.**
+- 🔭 I’m currently working on **ATI Limited.**
 
 - 🌱 I’m currently learning **JQuery, PHP-Laravel, API.**
 
-- 🤝 I’m looking for help with **a php Laravel developer (Advance).**
+- 🤝 I’m looking for help with **a PHP Laravel developer (Advance).**
 
 - 👨‍💻 All of my projects are available at Notify, Mailing, Payment Gateway etc.
 
