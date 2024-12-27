@@ -1,16 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<h1 align="center">Hi 👋, I'm MD. SHOHAG HOSSAIN</h1>
+<h1 align="center">Hi 👋, I'm SHOHAG</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh.</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shohag80" />
 
 
 - 🔭 I’m currently working on **ATI Limited.**
 
-- 🌱 I’m currently learning **JQuery, PHP-Laravel, API.**
+- 🌱 I’m currently learning **React, Docker**
 
-- 🤝 I’m looking for help with **a PHP Laravel developer (Advance).**
+- 🤝 I’m looking for help with **a React developer (Advance).**
 
-- 👨‍💻 All of my projects are available at Notify, Mailing, Payment Gateway etc.
+- 👨‍💻 All of my projects are available at Notify, Mailing, Payment Gateway, Broadcasting etc.
 
 - 💬 Ask me about **PHP-Laravel**
 
