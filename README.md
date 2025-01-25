@@ -49,7 +49,9 @@
 
 ### 👨🏻‍💻Code Lover.
 
-<p align="center">![github status](https://github-readme-stats.vercel.app/api?username=shohag80&count_private=true)</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shohag80&count_private=true" alt="github status">
+</p>
 
 <hr/>
 
