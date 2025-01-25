@@ -47,6 +47,12 @@
 
 <hr/>
 
+### 👨🏻‍💻Code Lover.
+
+![github status](https://github-readme-stats.vercel.app/api?username=shohag80&count_private=true)
+
+<hr/>
+
 <h3 align="center">Visitor Count</h3>
 <br/>
 <p align="center"> 
