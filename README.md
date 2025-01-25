@@ -49,7 +49,7 @@
 
 ### 👨🏻‍💻Code Lover.
 
-![github status](https://github-readme-stats.vercel.app/api?username=shohag80&count_private=true)
+<p align="center">![github status](https://github-readme-stats.vercel.app/api?username=shohag80&count_private=true)</p>
 
 <hr/>
 
