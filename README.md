@@ -101,7 +101,6 @@
 <hr/>
 
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Status</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-</p>
 <p align="center"><img align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=shohag80&" alt="shohag80" /></p>
 
 <hr/>
