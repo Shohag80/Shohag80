@@ -94,7 +94,9 @@
 <hr/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Language Used***
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohag80&show_icons=true&locale=en&layout=compact" alt="shohag80" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohag80&show_icons=true&locale=en&layout=compact" alt="shohag80" />
+</p>
 
 <hr/>
 
